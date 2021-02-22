@@ -1,0 +1,2028 @@
+fileFormatVersion: 2
+guid: e94969c7b088ac84abe26115bd54a809
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 501928065173197135
+    second: Goyo_0
+  - first:
+      213: 1175580045762567306
+    second: Goyo_1
+  - first:
+      213: -7747774743182079549
+    second: Goyo_2
+  - first:
+      213: 1877413187011623277
+    second: Goyo_3
+  - first:
+      213: -1233374554140916400
+    second: Goyo_4
+  - first:
+      213: 7896540752010461588
+    second: Goyo_5
+  - first:
+      213: 6289432700938856215
+    second: Goyo_6
+  - first:
+      213: 161339980029078324
+    second: Goyo_7
+  - first:
+      213: 1865677604903963752
+    second: Goyo_8
+  - first:
+      213: -2585198562131921345
+    second: Goyo_9
+  - first:
+      213: -2634627647284587894
+    second: Goyo_10
+  - first:
+      213: 1927422506735075210
+    second: Goyo_11
+  - first:
+      213: -2054412941450039312
+    second: Goyo_12
+  - first:
+      213: -5050574351737836484
+    second: Goyo_13
+  - first:
+      213: -796479234818354120
+    second: Goyo_14
+  - first:
+      213: 1841497591008445394
+    second: Goyo_15
+  - first:
+      213: -3917858225127836516
+    second: Goyo_16
+  - first:
+      213: -8058831561730290480
+    second: Goyo_17
+  - first:
+      213: 741273377723163576
+    second: Goyo_18
+  - first:
+      213: 5046920218027033985
+    second: Goyo_19
+  - first:
+      213: -1185751189973757715
+    second: Goyo_20
+  - first:
+      213: 861147663140348574
+    second: Goyo_21
+  - first:
+      213: -729341040262397079
+    second: Goyo_22
+  - first:
+      213: -8812064558548705449
+    second: Goyo_23
+  - first:
+      213: 582319071065916893
+    second: Goyo_24
+  - first:
+      213: -835760625936846319
+    second: Goyo_25
+  - first:
+      213: -6037875581258957214
+    second: Goyo_26
+  - first:
+      213: -1211406257156847141
+    second: Goyo_27
+  - first:
+      213: 4671208656069224448
+    second: Goyo_28
+  - first:
+      213: -3234577526810302113
+    second: Goyo_29
+  - first:
+      213: -1062039694255375736
+    second: Goyo_30
+  - first:
+      213: -6861506853309070574
+    second: Goyo_31
+  - first:
+      213: -5056888296435563222
+    second: Goyo_32
+  - first:
+      213: 3131168745849198832
+    second: Goyo_33
+  - first:
+      213: -7245045606801296273
+    second: Goyo_34
+  - first:
+      213: -8733195144124858115
+    second: Goyo_35
+  - first:
+      213: -757291631275992134
+    second: Goyo_36
+  - first:
+      213: 5110552909133333897
+    second: Goyo_37
+  - first:
+      213: -6625516496209043593
+    second: Goyo_38
+  - first:
+      213: 5825229752152701987
+    second: Goyo_39
+  - first:
+      213: 7557242580230516377
+    second: Goyo_40
+  - first:
+      213: -6482569387176681765
+    second: Goyo_41
+  - first:
+      213: -6338161354130301481
+    second: Goyo_42
+  - first:
+      213: 8069407286731717411
+    second: Goyo_43
+  - first:
+      213: 2383067986902559212
+    second: Goyo_44
+  - first:
+      213: -7330032471593009541
+    second: Goyo_45
+  - first:
+      213: -7548287839742353054
+    second: Goyo_46
+  - first:
+      213: -8047625571714793345
+    second: Goyo_47
+  - first:
+      213: -4071605416519632711
+    second: Goyo_48
+  - first:
+      213: 8926933734316816196
+    second: Goyo_49
+  - first:
+      213: -7695764149793612464
+    second: Goyo_50
+  - first:
+      213: 6096910845862107999
+    second: Goyo_51
+  - first:
+      213: 4886751672163128355
+    second: Goyo_52
+  - first:
+      213: -2029140594447426908
+    second: Goyo_53
+  - first:
+      213: 2243448280200240746
+    second: Goyo_54
+  - first:
+      213: -3839715441575174746
+    second: Goyo_55
+  - first:
+      213: 2725758312217142113
+    second: Goyo_56
+  - first:
+      213: -7830231235691380771
+    second: Goyo_57
+  - first:
+      213: 3891334876554714714
+    second: Goyo_58
+  - first:
+      213: -3343612206438678008
+    second: Goyo_59
+  - first:
+      213: -5910327450718849702
+    second: Goyo_60
+  - first:
+      213: -1379479730564595584
+    second: Goyo_61
+  - first:
+      213: 1276435405186954598
+    second: Goyo_62
+  - first:
+      213: -5866001377016226412
+    second: Goyo_63
+  - first:
+      213: -1404086339453592534
+    second: Goyo_64
+  - first:
+      213: 5431519810377231616
+    second: Goyo_65
+  - first:
+      213: -2641354059671863155
+    second: Goyo_66
+  - first:
+      213: 9150415695319945521
+    second: Goyo_67
+  - first:
+      213: -6198875336902971552
+    second: Goyo_68
+  - first:
+      213: 6828761435491358237
+    second: Goyo_69
+  - first:
+      213: -6486832222811784578
+    second: Goyo_70
+  - first:
+      213: 775416681308636800
+    second: Goyo_71
+  - first:
+      213: 2960342779411784206
+    second: Goyo_72
+  - first:
+      213: 4028442053838322778
+    second: Goyo_73
+  - first:
+      213: 9105625820656136824
+    second: Goyo_74
+  - first:
+      213: -1444386627725364481
+    second: Goyo_75
+  - first:
+      213: 6784617495091858350
+    second: Goyo_76
+  - first:
+      213: 4032064088148727674
+    second: Goyo_77
+  - first:
+      213: -3147490587901325190
+    second: Goyo_78
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Goyo_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 528
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41927b7ae437f600800000000000000
+      internalID: 501928065173197135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 528
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c17b8b2df705010800000000000000
+      internalID: 1175580045762567306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 528
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c983e8abef5a7490800000000000000
+      internalID: -7747774743182079549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 528
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69367cb859ed0a10800000000000000
+      internalID: 1877413187011623277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_4
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 528
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055cc61b06c22eee0800000000000000
+      internalID: -1233374554140916400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_5
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 528
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491cafde9f5269d60800000000000000
+      internalID: 7896540752010461588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_6
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 528
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717af2af7bd884750800000000000000
+      internalID: 6289432700938856215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_7
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 528
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ba3b56bd13d3200800000000000000
+      internalID: 161339980029078324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_8
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 528
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cc3b995e734e910800000000000000
+      internalID: 1865677604903963752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_9
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 464
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36b64eca978f1cd0800000000000000
+      internalID: -2585198562131921345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_10
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 464
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82dd281d1cef6bd0800000000000000
+      internalID: -2634627647284587894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_11
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 464
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f7906de849fba10800000000000000
+      internalID: 1927422506735075210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_12
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 464
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffa7e280524d73e0800000000000000
+      internalID: -2054412941450039312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_13
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 464
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ca7fcd261c8e9b0800000000000000
+      internalID: -5050574351737836484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_14
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 464
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8345da91b5652f4f0800000000000000
+      internalID: -796479234818354120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_15
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 464
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3cbc66d405e8910800000000000000
+      internalID: 1841497591008445394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_16
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 464
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94b9e2b3b8f0a9c0800000000000000
+      internalID: -3917858225127836516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_17
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 464
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc0c526467492090800000000000000
+      internalID: -8058831561730290480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 400
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3a4a8a538894a00800000000000000
+      internalID: 741273377723163576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_19
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 400
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1850d35d2334a0640800000000000000
+      internalID: 5046920218027033985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_20
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 400
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de01e99339d5b8fe0800000000000000
+      internalID: -1185751189973757715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_21
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 400
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9263a0bc3963fb00800000000000000
+      internalID: 861147663140348574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_22
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 400
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963cb07203cd0e5f0800000000000000
+      internalID: -729341040262397079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_23
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 400
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f15e9e8f145b580800000000000000
+      internalID: -8812064558548705449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_24
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 400
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5c1d02c10d41800800000000000000
+      internalID: 582319071065916893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_25
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 400
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112b6c58328c664f0800000000000000
+      internalID: -835760625936846319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_26
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 400
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26efd0d1628253ca0800000000000000
+      internalID: -6037875581258957214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_27
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 336
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd90b7b6d68303fe0800000000000000
+      internalID: -1211406257156847141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_28
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 336
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0086cb8068773d040800000000000000
+      internalID: 4671208656069224448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_29
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 336
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59a20c70e87c13d0800000000000000
+      internalID: -3234577526810302113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_30
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 336
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a3b866680e241f0800000000000000
+      internalID: -1062039694255375736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_31
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 336
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213ca98eed707c0a0800000000000000
+      internalID: -6861506853309070574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_32
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 336
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25c02e03e252d9b0800000000000000
+      internalID: -5056888296435563222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_33
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 336
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8952c7265247b20800000000000000
+      internalID: 3131168745849198832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_34
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 336
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64ba11186d647b90800000000000000
+      internalID: -7245045606801296273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_35
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 336
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0854079457dc680800000000000000
+      internalID: -8733195144124858115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_36
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 272
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb1b6e064f8d75f0800000000000000
+      internalID: -757291631275992134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_37
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 272
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9854bb24bc45ce640800000000000000
+      internalID: 5110552909133333897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_38
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 272
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f18f5a9df6d04a0800000000000000
+      internalID: -6625516496209043593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_39
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 272
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c3910a89f57d050800000000000000
+      internalID: 5825229752152701987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_40
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 272
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ea8143618b0e860800000000000000
+      internalID: 7557242580230516377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_41
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 272
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde138d0d794906a0800000000000000
+      internalID: -6482569387176681765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_42
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 272
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd54f554d35a08a0800000000000000
+      internalID: -6338161354130301481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_43
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 272
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bb7997c2b4cff60800000000000000
+      internalID: 8069407286731717411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_44
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 272
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9aee245bb521120800000000000000
+      internalID: 2383067986902559212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_45
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 208
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ebe92ad4e764a90800000000000000
+      internalID: -7330032471593009541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_46
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 208
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261a1c9c3381f3790800000000000000
+      internalID: -7548287839742353054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_47
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 208
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7007904e27115090800000000000000
+      internalID: -8047625571714793345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_48
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 208
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b87aca2270ce77c0800000000000000
+      internalID: -4071605416519632711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_49
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 208
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447b7673fe6d2eb70800000000000000
+      internalID: 8926933734316816196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_50
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 208
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d9d589747233590800000000000000
+      internalID: -7695764149793612464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_51
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 208
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b56da8c149c9450800000000000000
+      internalID: 6096910845862107999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_52
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 208
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32454d431ca31d340800000000000000
+      internalID: 4886751672163128355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_53
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 208
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aad2a4516b07d3e0800000000000000
+      internalID: -2029140594447426908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_54
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 144
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6edb451354522f10800000000000000
+      internalID: 2243448280200240746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_55
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 144
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad545a462796bac0800000000000000
+      internalID: -3839715441575174746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_56
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 144
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16365474eb6d3d520800000000000000
+      internalID: 2725758312217142113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_57
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 144
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf727f6d2e655390800000000000000
+      internalID: -7830231235691380771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_58
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 144
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ed12bf37cc00630800000000000000
+      internalID: 3891334876554714714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_59
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 144
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8020098d96a1991d0800000000000000
+      internalID: -3343612206438678008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_60
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 144
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55b9a17f7c4afda0800000000000000
+      internalID: -5910327450718849702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_61
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 144
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08088dc6e7a1bdce0800000000000000
+      internalID: -1379479730564595584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_62
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 144
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66576e8fc3fc6b110800000000000000
+      internalID: 1276435405186954598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_63
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 80
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ddef6b3d6c79ea0800000000000000
+      internalID: -5866001377016226412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_64
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 80
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cd3e6d9eea38ce0800000000000000
+      internalID: -1404086339453592534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_65
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 80
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d28087d72a06b40800000000000000
+      internalID: 5431519810377231616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_66
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 80
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80093b2a76085bd0800000000000000
+      internalID: -2641354059671863155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_67
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 80
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13154ba089eccfe70800000000000000
+      internalID: 9150415695319945521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_68
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 80
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fe7f069bb29f9a0800000000000000
+      internalID: -6198875336902971552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_69
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 80
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1659526852a4ce50800000000000000
+      internalID: 6828761435491358237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_70
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 80
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7afeb946742af5a0800000000000000
+      internalID: -6486832222811784578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_71
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 80
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08640520d55d2ca00800000000000000
+      internalID: 775416681308636800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_72
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 16
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e026b34c210451920800000000000000
+      internalID: 2960342779411784206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_73
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 16
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c374154b6e7e730800000000000000
+      internalID: 4028442053838322778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_74
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 16
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87275d1b07ead5e70800000000000000
+      internalID: 9105625820656136824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_75
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 16
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2fa18c30284fbe0800000000000000
+      internalID: -1444386627725364481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_76
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 16
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabc9d35aadc72e50800000000000000
+      internalID: 6784617495091858350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_77
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 16
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77d6b5ece4c4f730800000000000000
+      internalID: 4032064088148727674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goyo_78
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 16
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7091468cfdd154d0800000000000000
+      internalID: -3147490587901325190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
